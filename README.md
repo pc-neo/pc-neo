@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pc-neo
 - 🎓 B.S. in EE from ZheJiang University, M.S. from Tsinghua University
-- 👀 I’m interested in Software Development / LLM agents
+- 👀 I currently work at MiniMax with the AI Infrastructure team. I'm particularly interested in large language models (LLMs), Megatron distributed training, and cloud-native technologies.
 - 📫 How to reach me pengchengneo@gmail.com
 
 <!---
